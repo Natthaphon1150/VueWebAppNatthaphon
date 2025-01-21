@@ -1,0 +1,73 @@
+[
+  {
+    "id": 1,
+    "name": "Red_T-shirt",
+    "detail": "เสื้อยืดสีแดง",
+    "coverimage": "src/img/Red_T-shirt.jpg",
+    "price": "$10.99"
+  },
+  {
+    "id": 2,
+    "name": "grey T-shirt",
+    "detail": "เสื้อยืดสีเทา",
+    "coverimage": "src/img/grey.jpg",
+    "price": "$10.99"
+  },
+  {
+    "id": 3,
+    "name": "Black T-shirt",
+    "detail": "เสื้อยืดสีดำ",
+    "coverimage": "src/img/black.jpg",
+    "price": "$10.99"
+  },
+  {
+    "id": 4,
+    "name": "White T-shirt",
+    "detail": "เสื้อยืดสีดำ",
+    "coverimage": "src/img/white.jpg",
+    "price": "$10.99"
+  },
+  {
+    "id": 5,
+    "name": "Purple T-shirt",
+    "detail": "T-Shirt เสื้อยืด คอกลม สีม่วง",
+    "coverimage": "src/img/purple.jpg",
+    "price": "$10.99"
+  },
+  {
+    "id": 6,
+    "name": "Slim fit t-shirt",
+    "detail": "เสื้อยืดเข้ารูป",
+    "coverimage": "src/img/green.jpg",
+    "price": "$12.99"
+  },
+  {
+    "id": 7,
+    "name": "Slim fit t-shirt",
+    "detail": "เสื้อยืดเข้ารูป",
+    "coverimage": "src/img/redd.jpg",
+    "price": "$12.99"
+  },
+  {
+    "id": 8,
+    "name": "Woman",
+    "detail": "กางเกงกีฬาสำหรับผู้หญิง",
+    "coverimage": "src/img/woman.jpg",
+    "price": "$10.99"
+  },
+  {
+    "id": 9,
+    "name": "simplywear shorts",
+    "detail": "กางเกงกีฬาขาสั้น",
+    "coverimage": "src/img/gq.jpg",
+    "price": "$13.25"
+  },
+  
+  {
+    "id": 10,
+    "name": "Men's shorts, black",
+    "detail": "DISCOUNT OUTLET กางเกงขาสั้นชาย สีดำ",
+    "coverimage": "src/img/dc.jpg",
+    "price": "$12.25"
+  }
+]
